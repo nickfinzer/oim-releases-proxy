@@ -25,7 +25,21 @@ export default async function handler(req, res) {
       return;
     }
 
-    const data = await response.json();
+    const text = await response.text();
+
+    let data;
+    try {
+      data = JSON.parse(text);
+    } catch (parseErr) {
+      // Apps Script returned something that isn't JSON (commonly an
+      // HTML auth/permission page). Surface a snippet so we can see
+      // exactly what came back instead of failing opaquely.
+      res.status(502).json({
+        error: "Upstream did not return JSON",
+        snippet: text.slice(0, 500)
+      });
+      return;
+    }
 
     // Cache for 5 minutes at the edge so repeat visitors aren't
     // each triggering a fresh Apps Script execution.
