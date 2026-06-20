@@ -6,7 +6,7 @@
 // widget can fetch it directly.
 
 const APPS_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbz0reu5qkZJp24CaEYI3mFyCQuAZg4VGLGi2LPKwfbMdVEMk7c8TnHLyHikkpznYGIZ9A/exec";
+  "https://script.google.com/macros/s/AKfycbzPXSXA2KBfiigfaQHMhH0qJX5j6DjVQg4EeGWOQkiHH61FTOajlN8gvcKojlYA6PB5sQ/exec";
 
 export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
