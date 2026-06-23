@@ -690,36 +690,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Treetops",
-    "title": "Treetops",
-    "type": "Album",
-    "releaseDate": "2026-01-09",
-    "catalogId": "CHUH-9",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Andy Glibb",
-    "title": "Andy Glibb's Money or Evacuation",
-    "type": "Album",
-    "releaseDate": "2026-01-09",
-    "catalogId": "CHUH-33",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Java Jel",
-    "title": "Reversadoodle",
-    "type": "Album",
-    "releaseDate": "2026-01-09",
-    "catalogId": "CHUH-41",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Silvan Joray",
     "title": "Reverie",
     "type": "Single",
@@ -770,41 +740,11 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Silent Night",
-    "type": "Single",
-    "releaseDate": "2025-12-12",
-    "catalogId": "CAT1579583",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Javier Nero",
     "title": "Radiant Flower (Zara)",
     "type": "Single",
     "releaseDate": "2025-12-05",
     "catalogId": "OIM2602-FLOWER",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "The Bears Still Suck",
-    "type": "Single",
-    "releaseDate": "2025-12-05",
-    "catalogId": "CAT1563407",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Blue Christmas",
-    "type": "Single",
-    "releaseDate": "2025-11-28",
-    "catalogId": "CAT1563397",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -816,16 +756,6 @@
     "releaseDate": "2025-11-21",
     "catalogId": "BSPK2540-FRACTOMETRY",
     "imprint": "BespokeJazz",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Butterball Blues",
-    "type": "Single",
-    "releaseDate": "2025-11-21",
-    "catalogId": "CAT1548322",
-    "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -890,16 +820,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Tom Turkey",
-    "type": "Single",
-    "releaseDate": "2025-11-14",
-    "catalogId": "CAT1536214",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Tony Glausi",
     "title": "Cartas Sonoras",
     "type": "Album",
@@ -930,26 +850,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "I'll Be Seeing You",
-    "type": "Single",
-    "releaseDate": "2025-11-07",
-    "catalogId": "CAT1528167",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "I'll Close My Eyes",
-    "type": "Single",
-    "releaseDate": "2025-10-31",
-    "catalogId": "CAT1528159",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Alex Goodman",
     "title": "Good Morning Heartache",
     "type": "Album",
@@ -965,26 +865,6 @@
     "type": "Album",
     "releaseDate": "2025-10-24",
     "catalogId": "BSPK2532",
-    "imprint": "BespokeJazz",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "My One and Only Love",
-    "type": "Single",
-    "releaseDate": "2025-10-24",
-    "catalogId": "CAT1513912",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Lady Bird",
-    "type": "Single",
-    "releaseDate": "2025-10-17",
-    "catalogId": "CAT1512874",
     "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
@@ -1015,26 +895,6 @@
     "type": "Single",
     "releaseDate": "2025-10-10",
     "catalogId": "OIM2602-SOFTLY",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "That Girl",
-    "type": "Single",
-    "releaseDate": "2025-10-10",
-    "catalogId": "CAT1503088",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Her Smile",
-    "type": "Single",
-    "releaseDate": "2025-10-03",
-    "catalogId": "CAT1495318",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -1090,16 +950,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "What Is This Thing Called Love",
-    "type": "Single",
-    "releaseDate": "2025-09-26",
-    "catalogId": "CAT1488089",
-    "imprint": "BespokeJazz",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Yoko Yates",
     "title": "Eternal Moments",
     "type": "Album",
@@ -1130,52 +980,12 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Devil in Disguise",
-    "type": "Single",
-    "releaseDate": "2025-09-19",
-    "catalogId": "CAT1468889",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "I Walk the Line",
-    "type": "Single",
-    "releaseDate": "2025-09-12",
-    "catalogId": "CAT1468880",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Future Ratz",
-    "title": "Marble Composition (Best Of The Future Ratz)",
-    "type": "Album",
-    "releaseDate": "2025-09-12",
-    "catalogId": "CHUH-69",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "UNT Latin Jazz Lab",
     "title": "\u00bfDe D\u00f3nde Vienes?",
     "type": "Album",
     "releaseDate": "2025-09-05",
     "catalogId": "222502",
     "imprint": "NTJ",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Ring of Fire",
-    "type": "Single",
-    "releaseDate": "2025-09-05",
-    "catalogId": "CAT1453385",
-    "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -1220,16 +1030,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Folsom Prison Blues",
-    "type": "Single",
-    "releaseDate": "2025-08-29",
-    "catalogId": "CAT1453375",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Nadav Remez",
     "title": "Summit",
     "type": "Album",
@@ -1270,16 +1070,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Cry Me a River",
-    "type": "Single",
-    "releaseDate": "2025-08-22",
-    "catalogId": "CAT1422556",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Nick Finzer",
     "title": "The Jazz Orchestra Volume 1",
     "type": "EP",
@@ -1295,26 +1085,6 @@
     "type": "Single",
     "releaseDate": "2025-08-15",
     "catalogId": "SPM00006-LIFE",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Cheek to Cheek",
-    "type": "Single",
-    "releaseDate": "2025-08-15",
-    "catalogId": "CAT1422553",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Studeo Ratz",
-    "title": "The Night Surrounding - Best Of The Studeo Ratz",
-    "type": "Album",
-    "releaseDate": "2025-08-15",
-    "catalogId": "CHUH-96",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -1350,16 +1120,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "I've Got a Crush on You",
-    "type": "Single",
-    "releaseDate": "2025-08-08",
-    "catalogId": "CAT1422531",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Joe Elefante",
     "title": "Mudita",
     "type": "Single",
@@ -1375,16 +1135,6 @@
     "type": "Single",
     "releaseDate": "2025-08-01",
     "catalogId": "OIM2527-BIRTHPLACE",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "If I Were a Bell",
-    "type": "Single",
-    "releaseDate": "2025-08-01",
-    "catalogId": "CAT1422542",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -1410,32 +1160,12 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Remember Me",
-    "type": "Single",
-    "releaseDate": "2025-07-25",
-    "catalogId": "CAT1415967",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "David Bode",
     "title": "Dear Prudence / Don\u2019t Let Me Down",
     "type": "Single",
     "releaseDate": "2025-07-18",
     "catalogId": "BSPK2522-PRUDENCE",
     "imprint": "BespokeJazz",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Love For Sale",
-    "type": "Single",
-    "releaseDate": "2025-07-18",
-    "catalogId": "CAT1411344",
-    "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -1475,26 +1205,6 @@
     "type": "Single",
     "releaseDate": "2025-07-11",
     "catalogId": "SPM00006-TRAIL",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "There's a Small Hotel",
-    "type": "Single",
-    "releaseDate": "2025-07-11",
-    "catalogId": "CAT1390901",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Night and Day",
-    "type": "Single",
-    "releaseDate": "2025-07-04",
-    "catalogId": "CAT1390890",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -1540,16 +1250,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Honeysuckle Rose",
-    "type": "Single",
-    "releaseDate": "2025-06-27",
-    "catalogId": "CAT1384717",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Jaleel Shaw",
     "title": "Tamir (for Tamir Rice)",
     "type": "Single",
@@ -1560,31 +1260,11 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Darn That Dream",
-    "type": "Single",
-    "releaseDate": "2025-06-20",
-    "catalogId": "CAT1374844",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Ben Tweedt",
     "title": "Life Cycle",
     "type": "Album",
     "releaseDate": "2025-06-13",
     "catalogId": "BSPK2519",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Surrey with the Fringe on Top",
-    "type": "Single",
-    "releaseDate": "2025-06-13",
-    "catalogId": "CAT1361384",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -1626,16 +1306,6 @@
     "releaseDate": "2025-06-06",
     "catalogId": "CAT1281916",
     "imprint": "BespokeJazz",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "I Love You",
-    "type": "Single",
-    "releaseDate": "2025-06-06",
-    "catalogId": "CAT1361366",
-    "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -1720,36 +1390,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Don't Get Around Much Anymore",
-    "type": "Single",
-    "releaseDate": "2025-05-30",
-    "catalogId": "CAT1357912",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Various Artists",
-    "title": "Buy The Hook - The Songs Of Gooch Meatball",
-    "type": "Album",
-    "releaseDate": "2025-05-30",
-    "catalogId": "CHUH2538",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Everybody Wants To Be a Cat",
-    "type": "Single",
-    "releaseDate": "2025-05-23",
-    "catalogId": "CAT1347993",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Tim Jago",
     "title": "Soil to Sky",
     "type": "Single",
@@ -1800,31 +1440,11 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Blue Moon",
-    "type": "Single",
-    "releaseDate": "2025-05-16",
-    "catalogId": "CAT1344572",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Jamie Shew",
     "title": "Spicy Classy (and a little) Sassy",
     "type": "Album",
     "releaseDate": "2025-05-09",
     "catalogId": "WL2510",
-    "imprint": "BespokeJazz",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "If I Could Write a Book",
-    "type": "Single",
-    "releaseDate": "2025-05-09",
-    "catalogId": "CAT1340555",
     "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
@@ -1866,16 +1486,6 @@
     "releaseDate": "2025-05-02",
     "catalogId": "CAT1269070",
     "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "The Girl From Ipanema",
-    "type": "Single",
-    "releaseDate": "2025-05-02",
-    "catalogId": "CAT1331879",
-    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -1926,16 +1536,6 @@
     "releaseDate": "2025-04-25",
     "catalogId": "CAT1299513",
     "imprint": "BespokeJazz",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "I Fall in Love Too Easily",
-    "type": "Single",
-    "releaseDate": "2025-04-25",
-    "catalogId": "CAT1323163",
-    "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -2000,31 +1600,11 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "How High the Moon",
-    "type": "Single",
-    "releaseDate": "2025-04-18",
-    "catalogId": "CAT1323185",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Jamie Shew",
     "title": "Ghost of a Chance",
     "type": "EP",
     "releaseDate": "2025-04-11",
     "catalogId": "WL2510GOAC",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "The Lady Is A Tramp",
-    "type": "Single",
-    "releaseDate": "2025-04-11",
-    "catalogId": "CAT1313396",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -2110,31 +1690,11 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Time After Time",
-    "type": "Single",
-    "releaseDate": "2025-04-04",
-    "catalogId": "CAT1313427",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Max Gerl",
     "title": "Max Gerl Trio",
     "type": "Album",
     "releaseDate": "2025-03-28",
     "catalogId": "CAT1246062",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Cute",
-    "type": "Single",
-    "releaseDate": "2025-03-28",
-    "catalogId": "CAT1268951",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -2155,16 +1715,6 @@
     "type": "Album",
     "releaseDate": "2025-03-21",
     "catalogId": "OIM2410",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Unforgettable",
-    "type": "Single",
-    "releaseDate": "2025-03-21",
-    "catalogId": "CAT1262954",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -2225,16 +1775,6 @@
     "type": "Single",
     "releaseDate": "2025-03-14",
     "catalogId": "CAT1240425",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Fly Me To The Moon",
-    "type": "Single",
-    "releaseDate": "2025-03-14",
-    "catalogId": "CAT1264227",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -2330,16 +1870,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Bare Necessities",
-    "type": "Single",
-    "releaseDate": "2025-03-07",
-    "catalogId": "CAT1268976",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Mike Thompson",
     "title": "Let's Do It",
     "type": "Single",
@@ -2365,16 +1895,6 @@
     "type": "EP",
     "releaseDate": "2025-02-28",
     "catalogId": "WL2510IGTIY",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "You're Nobody 'Til Somebody Loves You",
-    "type": "Single",
-    "releaseDate": "2025-02-28",
-    "catalogId": "CAT1268956",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -2430,26 +1950,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Autumn Leaves",
-    "type": "Single",
-    "releaseDate": "2025-02-21",
-    "catalogId": "CAT1268972",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Our Love is Here to Stay",
-    "type": "Single",
-    "releaseDate": "2025-02-14",
-    "catalogId": "CAT1234324",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Ryan Truesdell",
     "title": "The Ballad of the Sad Young Men",
     "type": "Single",
@@ -2480,16 +1980,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Summertime",
-    "type": "Single",
-    "releaseDate": "2025-02-07",
-    "catalogId": "CAT1234319",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "John Sturino",
     "title": "Year Of The Globe",
     "type": "Single",
@@ -2505,16 +1995,6 @@
     "type": "Single",
     "releaseDate": "2025-02-07",
     "catalogId": "CAT1248236",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "I'm Old Fashioned",
-    "type": "Single",
-    "releaseDate": "2025-01-31",
-    "catalogId": "CAT1234305",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -2590,16 +2070,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "The Days of Wine and Roses",
-    "type": "Single",
-    "releaseDate": "2025-01-24",
-    "catalogId": "CAT1234299",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Jackson Churchill",
     "title": "Ledges",
     "type": "Single",
@@ -2620,41 +2090,11 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "All of Me",
-    "type": "Single",
-    "releaseDate": "2025-01-17",
-    "catalogId": "CAT1234295",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Sasha Berliner",
     "title": "UMMG",
     "type": "Single",
     "releaseDate": "2025-01-10",
     "catalogId": "OIM2501UMMG",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Bye Bye Blackbird",
-    "type": "Single",
-    "releaseDate": "2025-01-10",
-    "catalogId": "CAT1233716",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "It Could Happen To You",
-    "type": "Single",
-    "releaseDate": "2025-01-03",
-    "catalogId": "CAT1220007",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -2835,7 +2275,7 @@
     "type": "Album",
     "releaseDate": "2024-09-27",
     "catalogId": "BSPK2423",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -2925,7 +2365,7 @@
     "type": "Single",
     "releaseDate": "2024-08-30",
     "catalogId": "CAT1106918",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -2945,16 +2385,6 @@
     "type": "Album",
     "releaseDate": "2024-08-23",
     "catalogId": "OIM2401-RE",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Live At The Speakeasy",
-    "type": "Album",
-    "releaseDate": "2024-08-16",
-    "catalogId": "CAT1096072",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -3385,16 +2815,6 @@
     "type": "Single",
     "releaseDate": "2024-02-28",
     "catalogId": "JMI-19-WE-BLOOM",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Cyrus Chestnut",
-    "title": "Charmed",
-    "type": "EP",
-    "releaseDate": "2024-02-23",
-    "catalogId": "CHUH-1-BBR-3",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -3840,16 +3260,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "The Dreamer Vol. 2: Playtime",
-    "type": "Album",
-    "releaseDate": "2023-09-08",
-    "catalogId": "CAT893316",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Masha Ocean Quartet",
     "title": "Tolox",
     "type": "Single",
@@ -3975,7 +3385,7 @@
     "type": "Single",
     "releaseDate": "2023-07-21",
     "catalogId": "CAT198025293061",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -4315,7 +3725,7 @@
     "type": "Single",
     "releaseDate": "2023-05-26",
     "catalogId": "CAT198025255601",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -4365,16 +3775,6 @@
     "type": "Single",
     "releaseDate": "2023-04-28",
     "catalogId": "OIM2314NOSTALGIC",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "You Don't Know Jack",
-    "type": "EP",
-    "releaseDate": "2023-04-28",
-    "catalogId": "CAT812949",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -4505,16 +3905,6 @@
     "type": "EP",
     "releaseDate": "2023-02-24",
     "catalogId": "OIM2306HARLEM",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "The 414",
-    "type": "EP",
-    "releaseDate": "2023-02-24",
-    "catalogId": "AH6",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -4900,16 +4290,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "The Dreamer, Vol. 1: Sleepy Time",
-    "type": "Album",
-    "releaseDate": "2022-09-23",
-    "catalogId": "AH7",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Clark Sommers",
     "title": "Intertwine",
     "type": "Album",
@@ -4945,7 +4325,7 @@
     "type": "Album",
     "releaseDate": "2022-09-16",
     "catalogId": "CAT195269179168",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -4985,7 +4365,7 @@
     "type": "Single",
     "releaseDate": "2022-09-02",
     "catalogId": "CAT198004125161",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -5055,7 +4435,7 @@
     "type": "Single",
     "releaseDate": "2022-08-19",
     "catalogId": "CAT198004125185",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -5070,22 +4450,12 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Bing Bong",
-    "type": "EP",
-    "releaseDate": "2022-08-05",
-    "catalogId": "AH8",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Dafnis Prieto",
     "title": "Houve um Tempo",
     "type": "Single",
     "releaseDate": "2022-08-05",
     "catalogId": "CAT198004125178",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -5225,16 +4595,6 @@
     "type": "Album",
     "releaseDate": "2022-06-17",
     "catalogId": "NL2211",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "That's Love",
-    "type": "Single",
-    "releaseDate": "2022-06-17",
-    "catalogId": "AH9",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -6500,16 +5860,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "A 2020 Christmas",
-    "type": "Album",
-    "releaseDate": "2020-11-27",
-    "catalogId": "OIM2047",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Dan Pugach",
     "title": "Miss You Most (At Christmastime)",
     "type": "Single",
@@ -6705,7 +6055,7 @@
     "type": "Album",
     "releaseDate": "2020-10-02",
     "catalogId": "CAT195269022341",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -6765,7 +6115,7 @@
     "type": "Single",
     "releaseDate": "2020-09-18",
     "catalogId": "CAT195448465273",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -6815,16 +6165,6 @@
     "type": "Single",
     "releaseDate": "2020-08-25",
     "catalogId": "CAT822352",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Lo-Fi So Fly",
-    "type": "Single",
-    "releaseDate": "2020-08-21",
-    "catalogId": "AH11",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -7770,16 +7110,6 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Dream a Little Dream",
-    "type": "Single",
-    "releaseDate": "2019-08-16",
-    "catalogId": "AH12",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Chase Baird",
     "title": "A Life Between",
     "type": "Album",
@@ -7795,16 +7125,6 @@
     "type": "Album",
     "releaseDate": "2019-08-09",
     "catalogId": "OIM1927",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Blackbird",
-    "type": "Single",
-    "releaseDate": "2019-08-02",
-    "catalogId": "AH13",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -8400,51 +7720,11 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Have We Met?",
-    "type": "Album",
-    "releaseDate": "2018-07-20",
-    "catalogId": "OIM1811",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "So Danco Samba",
-    "type": "Single",
-    "releaseDate": "2018-07-06",
-    "catalogId": "AH14",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Paragon",
     "title": "Kin",
     "type": "Album",
     "releaseDate": "2018-06-29",
     "catalogId": "OIM1807",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Have You Met Miss Jones",
-    "type": "Single",
-    "releaseDate": "2018-06-15",
-    "catalogId": "AH15",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Pennies from Heaven",
-    "type": "Single",
-    "releaseDate": "2018-06-01",
-    "catalogId": "AH16",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
@@ -8475,7 +7755,7 @@
     "type": "Album",
     "releaseDate": "2018-04-06",
     "catalogId": "CAT888295676458",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -8855,17 +8135,7 @@
     "type": "Album",
     "releaseDate": "2015-03-09",
     "catalogId": "CAT888295235846",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Dr. Augie Haas",
-    "title": "Build Your Range Play Along",
-    "type": "Album",
-    "releaseDate": "2014-06-01",
-    "catalogId": "DAH01",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -8880,22 +8150,12 @@
     "amazonLink": ""
   },
   {
-    "artist": "Augie Haas",
-    "title": "Endless",
-    "type": "Album",
-    "releaseDate": "2012-08-01",
-    "catalogId": "AH2",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
     "artist": "Dafnis Prieto",
     "title": "Proverb Trio",
     "type": "Album",
     "releaseDate": "2012-06-06",
     "catalogId": "CAT616892058243",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -8915,27 +8175,7 @@
     "type": "Album",
     "releaseDate": "2009-07-15",
     "catalogId": "CAT884502123135",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Doing It Augie Style",
-    "type": "Album",
-    "releaseDate": "2009-02-25",
-    "catalogId": "AH3",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "Baby Jazz",
-    "type": "Album",
-    "releaseDate": "2008-08-22",
-    "catalogId": "AH17",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -8945,17 +8185,7 @@
     "type": "Album",
     "releaseDate": "2008-01-01",
     "catalogId": "CAT634479727542",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Augie Haas",
-    "title": "The Llama",
-    "type": "Album",
-    "releaseDate": "2007-05-11",
-    "catalogId": "AH5",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -8965,17 +8195,7 @@
     "type": "Album",
     "releaseDate": "2006-03-15",
     "catalogId": "CAT880956060620",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Java Jel",
-    "title": "Jr. Java",
-    "type": "Album",
-    "releaseDate": "2005-06-27",
-    "catalogId": "CHUH-32",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -8985,57 +8205,7 @@
     "type": "Album",
     "releaseDate": "2004-12-20",
     "catalogId": "CAT880956050225",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Monroe",
-    "title": "Monroe",
-    "type": "Album",
-    "releaseDate": "2003-01-01",
-    "catalogId": "CHUH2535",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Bardonia",
-    "title": "Bardonia",
-    "type": "Album",
-    "releaseDate": "2002-02-02",
-    "catalogId": "CHUH2534",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Rearview",
-    "title": "Rearview",
-    "type": "EP",
-    "releaseDate": "2001-11-11",
-    "catalogId": "CHUH-19",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Max Greene",
-    "title": "Christimus Maximus",
-    "type": "Album",
-    "releaseDate": "2000-12-25",
-    "catalogId": "CHUH-14",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Fellaheen",
-    "title": "Fellaheen",
-    "type": "Album",
-    "releaseDate": "2000-07-26",
-    "catalogId": "CHUH2530",
-    "imprint": "OiM",
+    "imprint": "BespokeJazz",
     "presaveLink": "",
     "amazonLink": ""
   },
@@ -9051,80 +8221,10 @@
   },
   {
     "artist": "Java Jel",
-    "title": "Java Jones",
-    "type": "Album",
-    "releaseDate": "1996-09-16",
-    "catalogId": "CHUH-18",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Java Jel",
     "title": "Cafe",
     "type": "Album",
     "releaseDate": "1994-04-01",
     "catalogId": "CAT1307488",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Funk Nervosa",
-    "title": "Funk Nervosa",
-    "type": "EP",
-    "releaseDate": "1992-10-22",
-    "catalogId": "CHUH-12",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Java Jel",
-    "title": "Java Lava",
-    "type": "Album",
-    "releaseDate": "1992-01-17",
-    "catalogId": "CHUH-17",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Java Jel",
-    "title": "Marilyn Monroe",
-    "type": "Album",
-    "releaseDate": "1990-01-04",
-    "catalogId": "CHUH2537",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Sinehead Doug",
-    "title": "Sinehead Doug",
-    "type": "Album",
-    "releaseDate": "1990-01-01",
-    "catalogId": "CHUH-13",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Java Jel",
-    "title": "Kerouac Shack",
-    "type": "Album",
-    "releaseDate": "1989-05-14",
-    "catalogId": "CHUH-31",
-    "imprint": "OiM",
-    "presaveLink": "",
-    "amazonLink": ""
-  },
-  {
-    "artist": "Java Jel",
-    "title": "Java's Jesus Jam",
-    "type": "Album",
-    "releaseDate": "1988-12-11",
-    "catalogId": "CHUH2536",
     "imprint": "OiM",
     "presaveLink": "",
     "amazonLink": ""
