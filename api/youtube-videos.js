@@ -36,7 +36,7 @@ export default async function handler(req, res) {
     // Search within the OiM channel for this artist name
     const params = new URLSearchParams({
       key:        apiKey,
-      channelId:  process.env.OIM_CHANNEL_ID || "UCH3n1p5nDE5ZiqM5fspLzlA",
+      channelId:  process.env.OIM_CHANNEL_ID || "UCl6gzDhmm7paQXEnPlwae0A",
       q:          artist,
       part:       "snippet",
       type:       "video",
@@ -50,7 +50,9 @@ export default async function handler(req, res) {
     }
 
     const data = await response.json();
-    const videos = (data.items || []).map(item => ({
+    const rawItems = data.items || [];
+    console.log("YouTube API response:", JSON.stringify({ totalResults: data.pageInfo?.totalResults, itemCount: rawItems.length, error: data.error }));
+    const videos = rawItems.map(item => ({
       videoId:     item.id.videoId,
       title:       item.snippet.title,
       thumbnail:   item.snippet.thumbnails?.medium?.url || item.snippet.thumbnails?.default?.url,
@@ -59,11 +61,11 @@ export default async function handler(req, res) {
     }));
 
     res.setHeader("Cache-Control", "s-maxage=3600, stale-while-revalidate=300");
-    res.status(200).json({ videos });
+    res.status(200).json({ videos, debug_total: data.pageInfo?.totalResults, debug_error: data.error });
 
   } catch (err) {
     console.error("YouTube video fetch error:", err.message);
-    // Fail silently — missing videos shouldn't break the artist profile
-    res.status(200).json({ videos: [] });
+    // Return error details so we can debug — will switch back to silent fail once working
+    res.status(200).json({ videos: [], debug_error: err.message });
   }
 }
