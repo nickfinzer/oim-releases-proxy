@@ -50,9 +50,7 @@ export default async function handler(req, res) {
     }
 
     const data = await response.json();
-    const rawItems = data.items || [];
-    console.log("YouTube API response:", JSON.stringify({ totalResults: data.pageInfo?.totalResults, itemCount: rawItems.length, error: data.error }));
-    const videos = rawItems.map(item => ({
+    const videos = (data.items || []).map(item => ({
       videoId:     item.id.videoId,
       title:       item.snippet.title,
       thumbnail:   item.snippet.thumbnails?.medium?.url || item.snippet.thumbnails?.default?.url,
@@ -61,11 +59,10 @@ export default async function handler(req, res) {
     }));
 
     res.setHeader("Cache-Control", "s-maxage=3600, stale-while-revalidate=300");
-    res.status(200).json({ videos, debug_total: data.pageInfo?.totalResults, debug_error: data.error });
+    res.status(200).json({ videos });
 
   } catch (err) {
     console.error("YouTube video fetch error:", err.message);
-    // Return error details so we can debug — will switch back to silent fail once working
-    res.status(200).json({ videos: [], debug_error: err.message });
+    res.status(200).json({ videos: [] });
   }
 }
