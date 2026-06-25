@@ -10,7 +10,7 @@
 // Uses YouTube Data API v3 — requires YOUTUBE_API_KEY in Vercel env vars.
 // Get a free key at: console.cloud.google.com → APIs → YouTube Data API v3
 
-const OIM_CHANNEL_ID = "UCH3n1p5nDE5ZiqM5fspLzlA"; // ← will be resolved at first request if blank
+const OIM_CHANNEL_ID = "UCxxx"; // ← will be resolved at first request if blank
 const CHANNEL_HANDLE = "@outside-in-music";
 const YT_SEARCH_URL  = "https://www.googleapis.com/youtube/v3/search";
 
