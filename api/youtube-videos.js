@@ -40,7 +40,7 @@ export default async function handler(req, res) {
       q:          artist,
       part:       "snippet",
       type:       "video",
-      maxResults: "6",
+      maxResults: "10",
       order:      "relevance"
     });
 
@@ -50,7 +50,21 @@ export default async function handler(req, res) {
     }
 
     const data = await response.json();
-    const videos = (data.items || []).map(item => ({
+
+    // Only include videos where the artist name actually appears in the title.
+    // YouTube search matches on descriptions, tags, and transcripts too, which
+    // surfaces unrelated videos that merely mention the artist in passing.
+    const artistLower = artist.toLowerCase();
+    // Split into words so "Nick Finzer" matches "Nick Finzer Quartet" etc.
+    const artistWords = artistLower.split(/\s+/).filter(w => w.length > 2);
+
+    const videos = (data.items || [])
+      .filter(item => {
+        const titleLower = (item.snippet.title || "").toLowerCase();
+        // Require ALL significant words of the artist name to appear in title
+        return artistWords.every(word => titleLower.includes(word));
+      })
+      .map(item => ({
       videoId:     item.id.videoId,
       title:       item.snippet.title,
       thumbnail:   item.snippet.thumbnails?.medium?.url || item.snippet.thumbnails?.default?.url,
