@@ -1,82 +1,31 @@
-// api/youtube-videos.js
+// api/artists.js
 //
-// Searches the Outside In Music YouTube channel for videos
-// matching a given artist name. Used by the artist profile view
-// to show relevant videos inline.
-//
-// Usage: /api/youtube-videos?artist=Javier+Nero
-// Returns: { videos: [ { videoId, title, thumbnail, publishedAt, url } ] }
-//
-// Uses YouTube Data API v3 — requires YOUTUBE_API_KEY in Vercel env vars.
-// Get a free key at: console.cloud.google.com → APIs → YouTube Data API v3
+// Reads the "Artists" tab from the OiM Project Management sheet and
+// returns a JSON array of artist profiles. Same pattern as releases.js.
+// Serves bio, photo, links — all editable directly in the sheet.
 
-const OIM_CHANNEL_ID = "UCxxx"; // ← will be resolved at first request if blank
-const CHANNEL_HANDLE = "@outside-in-music";
-const YT_SEARCH_URL  = "https://www.googleapis.com/youtube/v3/search";
+const APPS_SCRIPT_URL =
+  "https://script.google.com/macros/s/AKfycbwHX1ZssmwYgQFFE35Y7BdHHzqdm6QAizTAOw1HVSQ2hemhrb3OhHdBVPJxi3j4Gu0q2Q/exec?sheet=Artists";
 
 export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
-  if (req.method === "OPTIONS") { res.status(200).end(); return; }
 
-  const artist = (req.query.artist || "").toString().trim();
-  if (!artist) {
-    res.status(400).json({ error: "Missing artist param", videos: [] });
-    return;
-  }
-
-  const apiKey = process.env.YOUTUBE_API_KEY;
-  if (!apiKey) {
-    // Graceful degradation — no API key means no videos, not an error
-    res.status(200).json({ videos: [] });
+  if (req.method === "OPTIONS") {
+    res.status(200).end();
     return;
   }
 
   try {
-    // Search within the OiM channel for this artist name
-    const params = new URLSearchParams({
-      key:        apiKey,
-      channelId:  process.env.OIM_CHANNEL_ID || "UCl6gzDhmm7paQXEnPlwae0A",
-      q:          artist,
-      part:       "snippet",
-      type:       "video",
-      maxResults: "10",
-      order:      "relevance"
-    });
-
-    const response = await fetch(`${YT_SEARCH_URL}?${params}`);
+    const response = await fetch(APPS_SCRIPT_URL, { redirect: "follow" });
     if (!response.ok) {
-      throw new Error("YouTube API error: " + response.status);
+      res.status(502).json({ error: "Upstream error", status: response.status });
+      return;
     }
-
     const data = await response.json();
-
-    // Only include videos where the artist name actually appears in the title.
-    // YouTube search matches on descriptions, tags, and transcripts too, which
-    // surfaces unrelated videos that merely mention the artist in passing.
-    const artistLower = artist.toLowerCase();
-    // Split into words so "Nick Finzer" matches "Nick Finzer Quartet" etc.
-    const artistWords = artistLower.split(/\s+/).filter(w => w.length > 2);
-
-    const videos = (data.items || [])
-      .filter(item => {
-        const titleLower = (item.snippet.title || "").toLowerCase();
-        // Require ALL significant words of the artist name to appear in title
-        return artistWords.every(word => titleLower.includes(word));
-      })
-      .map(item => ({
-      videoId:     item.id.videoId,
-      title:       item.snippet.title,
-      thumbnail:   item.snippet.thumbnails?.medium?.url || item.snippet.thumbnails?.default?.url,
-      publishedAt: item.snippet.publishedAt?.slice(0, 10),
-      url:         `https://www.youtube.com/watch?v=${item.id.videoId}`
-    }));
-
-    res.setHeader("Cache-Control", "s-maxage=3600, stale-while-revalidate=300");
-    res.status(200).json({ videos });
-
+    res.setHeader("Cache-Control", "s-maxage=300, stale-while-revalidate=60");
+    res.status(200).json(data);
   } catch (err) {
-    console.error("YouTube video fetch error:", err.message);
-    res.status(200).json({ videos: [] });
+    res.status(500).json({ error: "Proxy fetch failed", message: String(err) });
   }
 }
